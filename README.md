@@ -41,3 +41,4 @@ Nota: _El puerto 3000 puede cambiar si ya está en uso, en ese caso, aparecerá 
  <img src= "https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=react&logoColor=white"></img>
  </p>
  
+ ![Captura de pantalla]url("/captura.jpg");
