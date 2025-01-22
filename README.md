@@ -41,7 +41,13 @@ Nota: _El puerto 3000 puede cambiar si ya está en uso, en ese caso, aparecerá 
  <img src= "https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=react&logoColor=white"></img>
  </p>
  
- Este es un breve resumen de mi proyecto React.
 
-![Captura principal](/captura.png)
+ 
+ ## Este es un breve resumen de mi proyecto React.
+ Captura principal
+
+<p align= "center">
+ <img src= "https://github.com/GladysGC/Prueba-Tecnica-React/blob/main/public/captura.png"></img>
+ </p>
+
 
